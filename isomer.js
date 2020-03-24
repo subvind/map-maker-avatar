@@ -104,11 +104,11 @@ iso.add(Shape.Prism(Point(10, 16, -6)), base); // color
 
 // 19:2
 iso.add(Shape.Prism(Point(16, 15, -6)), base);
-iso.add(Shape.Prism(Point(15, 15, -6.2)), base19);
+iso.add(Shape.Prism(Point(15, 15, -6)), base);
 iso.add(Shape.Prism(Point(14, 15, -6.2)), base19);
-iso.add(Shape.Prism(Point(13, 15, -6.2)), base19);
+iso.add(Shape.Prism(Point(13, 15, -6)), base);
 iso.add(Shape.Prism(Point(12, 15, -6.2)), base19); // id
-iso.add(Shape.Prism(Point(11, 15, -6.2)), base19);
+iso.add(Shape.Prism(Point(11, 15, -6)), base);
 iso.add(Shape.Prism(Point(10, 15, -6)), base);
 
 // J:2
@@ -122,11 +122,11 @@ iso.add(Shape.Prism(Point(10, 15, -6)), base); //color
 
 // 19:3
 iso.add(Shape.Prism(Point(16, 14, -6)), base);
-iso.add(Shape.Prism(Point(15, 14, -6)), base);
-iso.add(Shape.Prism(Point(14, 14, -6)), base);
-iso.add(Shape.Prism(Point(13, 14, -6)), base);
-iso.add(Shape.Prism(Point(12, 14, -6)), base); // id
-iso.add(Shape.Prism(Point(11, 14, -6)), base);
+iso.add(Shape.Prism(Point(15, 14, -6.2)), base19);
+iso.add(Shape.Prism(Point(14, 14, -6.2)), base19);
+iso.add(Shape.Prism(Point(13, 14, -6.2)), base19);
+iso.add(Shape.Prism(Point(12, 14, -6.2)), base19); // id
+iso.add(Shape.Prism(Point(11, 14, -6.2)), base19);
 iso.add(Shape.Prism(Point(10, 14, -6)), base);
 
 // J:3
@@ -140,10 +140,10 @@ iso.add(Shape.Prism(Point(10, 14, -6)), base); // color
 
 // 19:4
 iso.add(Shape.Prism(Point(16, 13, -6)), base);
-iso.add(Shape.Prism(Point(15, 13, -6.2)), base19);
+iso.add(Shape.Prism(Point(15, 13, -6)), base);
 iso.add(Shape.Prism(Point(14, 13, -6.2)), base19);
-iso.add(Shape.Prism(Point(13, 13, -6.2)), base19);
-iso.add(Shape.Prism(Point(12, 13, -6)), base); // id
+iso.add(Shape.Prism(Point(13, 13, -6)), base);
+iso.add(Shape.Prism(Point(12, 13, -6.2)), base19); // id
 iso.add(Shape.Prism(Point(11, 13, -6)), base);
 iso.add(Shape.Prism(Point(10, 13, -6)), base);
 
@@ -159,10 +159,10 @@ iso.add(Shape.Prism(Point(10, 13, -6)), base); // color
 // 19:5
 iso.add(Shape.Prism(Point(16, 12, -6)), base);
 iso.add(Shape.Prism(Point(15, 12, -6.2)), base19);
-iso.add(Shape.Prism(Point(14, 12, -6)), base);
+iso.add(Shape.Prism(Point(14, 12, -6.2)), base19);
 iso.add(Shape.Prism(Point(13, 12, -6.2)), base19);
-iso.add(Shape.Prism(Point(12, 12, -6)), base); // id
-iso.add(Shape.Prism(Point(11, 12, -6)), base);
+iso.add(Shape.Prism(Point(12, 12, -6.2)), base19); // id
+iso.add(Shape.Prism(Point(11, 12, -6.2)), base19);
 iso.add(Shape.Prism(Point(10, 12, -6)), base);
 
 // J:5
@@ -176,11 +176,11 @@ iso.add(Shape.Prism(Point(10, 12, -6)), base); // color
 
 // 19:6
 iso.add(Shape.Prism(Point(16, 11, -6)), base);
-iso.add(Shape.Prism(Point(15, 11, -6.2)), base19);
+iso.add(Shape.Prism(Point(15, 11, -6)), base);
 iso.add(Shape.Prism(Point(14, 11, -6.2)), base19);
-iso.add(Shape.Prism(Point(13, 11, -6.2)), base19);
+iso.add(Shape.Prism(Point(13, 11, -6)), base);
 iso.add(Shape.Prism(Point(12, 11, -6.2)), base19); // id 
-iso.add(Shape.Prism(Point(11, 11, -6.2)), base19);
+iso.add(Shape.Prism(Point(11, 11, -6)), base);
 iso.add(Shape.Prism(Point(10, 11, -6)), base);
 
 // J:6
