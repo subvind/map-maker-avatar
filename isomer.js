@@ -1,3 +1,4 @@
+// d minus c
 
 var Point  = Isomer.Point;
 var Path   = Isomer.Path;
@@ -132,7 +133,7 @@ iso.add(Shape.Prism(Point(10, 14, -6)), base);
 iso.add(Shape.Prism(Point(10, 14, -12)), base);
 iso.add(Shape.Prism(Point(10, 14, -11)), base);
 iso.add(Shape.Prism(Point(10, 14, -10)), base);
-iso.add(Shape.Prism(Point(10, 14, -9)), base); 
+iso.add(Shape.Prism(Point(9.8, 14, -9)), base19); 
 iso.add(Shape.Prism(Point(10, 14, -8)), base); // id
 iso.add(Shape.Prism(Point(10, 14, -7)), base);
 iso.add(Shape.Prism(Point(10, 14, -6)), base); // color
@@ -150,7 +151,7 @@ iso.add(Shape.Prism(Point(10, 13, -6)), base);
 iso.add(Shape.Prism(Point(10, 13, -12)), base);
 iso.add(Shape.Prism(Point(10, 13, -11)), base);
 iso.add(Shape.Prism(Point(10, 13, -10)), base);
-iso.add(Shape.Prism(Point(10, 13, -9)), base);
+iso.add(Shape.Prism(Point(9.8, 13, -9)), base19);
 iso.add(Shape.Prism(Point(10, 13, -8)), base); // id
 iso.add(Shape.Prism(Point(10, 13, -7)), base);
 iso.add(Shape.Prism(Point(10, 13, -6)), base); // color
@@ -168,7 +169,7 @@ iso.add(Shape.Prism(Point(10, 12, -6)), base);
 iso.add(Shape.Prism(Point(10, 12, -12)), base);
 iso.add(Shape.Prism(Point(10, 12, -11)), base);
 iso.add(Shape.Prism(Point(10, 12, -10)), base);
-iso.add(Shape.Prism(Point(10, 12, -9)), base);
+iso.add(Shape.Prism(Point(9.8, 12, -9)), base19);
 iso.add(Shape.Prism(Point(10, 12, -8)), base); // id
 iso.add(Shape.Prism(Point(10, 12, -7)), base);
 iso.add(Shape.Prism(Point(10, 12, -6)), base); // color
